@@ -1,0 +1,16 @@
+{
+  "name": "escape-road",
+  "version": "1.0.0",
+  "description": "https://EscapeRoad.app/: Escape Road is an exhilarating driving game where you must evade relentless police chases and navigate through challenging obstacles. Your ultimate goal is to survive as long as possible while racking up points!",
+  "main": "index.js",
+  "bin": {
+    "escape-road": "./index.js"
+  },
+  "keywords": [
+    "escape",
+    "road",
+    "escape road"
+  ],
+  "author": "EscapeRoad",
+  "license": "ISC"
+}
