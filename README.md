@@ -1,6 +1,6 @@
-# escape-road
+# [Escape Road](https://escaperoad.app/)
 
-Escape Road: https://escaperoad.app/
+URL: https://escaperoad.app/
 
 ```
 $ npm install -g escape-road
